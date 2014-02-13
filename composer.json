@@ -1,7 +1,8 @@
 {
     "require": {
         "php": ">=5.5",
-        "vespolina/workflow": "dev-master"
+        "vespolina/workflow": "dev-master",
+        "monolog/monolog": "~1.6"
     },
     "require-dev": {
         "phpunit/phpunit": "~3.7",
