@@ -1,6 +1,6 @@
 <?php
 
-namespace Charger\Workflow;
+namespace ProcessEngine\Workflow;
 
 use Vespolina\Workflow\Task\Automatic;
 use Vespolina\Workflow\Place;

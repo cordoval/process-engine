@@ -16,4 +16,4 @@ EOT;
 
 $loader = require $file;
 
-$loader->add('Charger\\Tests\\', __DIR__);
+$loader->add('ProcessEngine\\Tests\\', __DIR__);

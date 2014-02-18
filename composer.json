@@ -1,4 +1,18 @@
 {
+    "name": "Process Engine",
+    "type": "project",
+    "description": "Process Engine example using vespolina workflow",
+    "keywords": [
+        "workflow", "design"
+    ],
+    "homepage": "http://vespolina.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Cordova",
+            "email": "cordoval@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=5.5",
         "vespolina/workflow": "dev-master",
@@ -14,7 +28,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Charger\\": "src"
+            "ProcessEngine\\": "src"
         }
     },
     "extra": {

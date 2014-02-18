@@ -1,8 +1,8 @@
 <?php
 
-namespace Charger\Tests;
+namespace ProcessEngine\Tests;
 
-use Charger\Workflow\SubscriberWorkflow;
+use ProcessEngine\Workflow\SubscriberWorkflow;
 use Vespolina\Workflow\Token;
 
 class ApplicationTest extends \PHPUnit_Framework_TestCase

@@ -1,6 +1,6 @@
 <?php
 
-namespace Charger\Controller;
+namespace ProcessEngine\Controller;
 
 class PurchaseController
 {
